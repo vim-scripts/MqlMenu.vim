@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=344
+
+Creates a menu of Matrix mql commands
+Matrix is a Product Data Management system from MatrixOne http://www.matrixone.com 
+It has an SQL-like command language called mql . 
+When you run the menu items, it runs/imports/etc with mql using the current file as input
+
